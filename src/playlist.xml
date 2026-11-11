@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playlist folder_path="data/missions/default_dock_bollards" file_store="4" name="Default Dock Bollards">
+<playlist folder_path="data/missions/DockBollards" file_store="4" name="(cuhHub) Dock Bollards">
 	<locations location_id_counter="36" component_id_counter="210">
 		<locations>
 			<l id="101" name="bollard_default" env_mod_spawn_num="1">
